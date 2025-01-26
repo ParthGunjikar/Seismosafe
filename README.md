@@ -17,8 +17,8 @@ The system processes sensor data locally, transmits it to neighboring nodes or a
 
 |Sl.no|Item|Quantity|Description|Links to Products|
 |-----|----|--------|-----------|-----------------|
-|1    |Vega Aries V3 RISC-V Board|1|RISC-V microcontroller development board|| [Vega Aries V3 RISC-V Board](https://robu.in/product/aries-v30-devlopment-board/)  |
-|2    |ADXL335 accelerometer module|1|3-axis analog accelerometer for motion sensing|| [ADXL335 accelerometer module](https://robu.in/product/adxl335-module-3-axis-analog-output-accelerometer-raspberry-pi-arduino-avr/)  |
+|1    |Vega Aries V3 RISC-V Board|1|RISC-V microcontroller development board|[Vega Aries V3 RISC-V Board](https://robu.in/product/aries-v30-devlopment-board/)  |
+|2    |ADXL335 accelerometer module|1|3-axis analog accelerometer for motion sensing|[ADXL335 accelerometer module](https://robu.in/product/adxl335-module-3-axis-analog-output-accelerometer-raspberry-pi-arduino-avr/)  |
 |3    |Buzzer|1|Produces sound for alerts |[Buzzer](https://robu.in/product/5v-active-electromagnetic-buzzer-pack-of-5/) |
 |4    |XBee Pro S2C Module|1|Enables Zigbee-based wireless communication||
 |5    |MQ-2 Gas Sensor|1|Detects flammable gases and smoke|[MQ-2 Gas Sensor](https://robu.in/product/mq-2-mq2-smoke-gas-lpg-butane-hydrogen-gas-sensor-detector-module/)|
