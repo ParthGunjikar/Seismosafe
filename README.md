@@ -22,7 +22,7 @@ The system processes sensor data locally, transmits it to neighboring nodes or a
 |3    |Buzzer|1|Produces sound for alerts and notifications||
 |4    |XBee Pro S2C Module|1|Enables Zigbee-based wireless communication||
 |5    |MQ-2 Gas Sensor|1|Detects flammable gases and smoke||
-|6    |Neo-6M GPS Module|1|Provides GPS location and time data.||
+|6    |Neo-6M GPS Module|1|Provides GPS location data||
 |7    |SIM800L GSM Module|1|Enables GSM communication for SMS||
 |8    |OLED Display Module|1|Displays data using a compact OLED screen||
 |9    |3.3 V Adapter|1|Supplies a stable 3.3V power output||
