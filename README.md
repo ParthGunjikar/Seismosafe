@@ -17,16 +17,16 @@ The system processes sensor data locally, transmits it to neighboring nodes or a
 
 |Sl.no|Item|Quantity|Description|Links to Products|
 |-----|----|--------|-----------|-----------------|
-|1    |Vega Aries V3 RISC-V Board|1|||
-|2    |ADXL335 accelerometer module|1|||
-|3    |Piezo Buzzer|1|||
-|4    |XBee Pro S2C Module|1|||
-|5    |MQ-2 Gas Sensor|1|||
-|6    |Neo-6M GPS Module|1|||
-|7    |SIM800L GSM Module|1|||
-|8    | OLED Display Module I2c Interface|1|||
-|9    |3.3 V Adapter|1|||
-|10   |12 V Adapter|1|||
+|1    |Vega Aries V3 RISC-V Board|1|RISC-V microcontroller development board||
+|2    |ADXL335 accelerometer module|1|3-axis analog accelerometer for motion sensing||
+|3    |Buzzer|1|Produces sound for alerts and notifications||
+|4    |XBee Pro S2C Module|1|Enables Zigbee-based wireless communication||
+|5    |MQ-2 Gas Sensor|1|Detects flammable gases and smoke||
+|6    |Neo-6M GPS Module|1|Provides GPS location and time data.||
+|7    |SIM800L GSM Module|1|Enables GSM communication for SMS||
+|8    |OLED Display Module|1|Displays data using a compact OLED screen||
+|9    |3.3 V Adapter|1|Supplies a stable 3.3V power output||
+|10   |12 V Adapter|1|Provides a reliable 12V power supply||
 |11   |Miscellaneous (LED's, Jumper Wire's, PCB)|-|||
 
 ## Table for Pin Connections
