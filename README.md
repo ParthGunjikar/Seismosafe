@@ -5,9 +5,22 @@ SeismoSafe is an innovative system designed to detect seismic waves in real time
 
 SeismoSafe not only detects seismic activity but also addresses post-earthquake hazards such as gas leaks and fires. With features like mesh networking, localized alerts, and emergency SOS communication, SeismoSafe aims to minimize risks and save lives.
 ## Overview
+SeismoSafe integrates the following technologies to provide a comprehensive safety network:
 
+Real-Time Seismic Detection using the ADXL335 accelerometer.
+
+Local Alert Systems including audible buzzers and OLED displays.
+
+Mesh Networking with XBee modules for robust communication.
+
+Emergency Communication via GSM for sending SOS messages.
+
+Post-Earthquake Hazard Mitigation with MQ-2 gas sensors for gas leak detection.
+
+The system processes sensor data locally, transmits it to neighboring nodes or a central hub, and triggers alarms when thresholds are exceeded. By providing both localized and centralized responses, SeismoSafe ensures effective and timely interventions.
 ## Components required with Bill of Materials
-
+|-|-|-|-|-|-|-|-|
+|Sl.no|
 ## Table for Pin Connections
 
 ## Pinout Diagram
