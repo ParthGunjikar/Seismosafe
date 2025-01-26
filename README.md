@@ -1,4 +1,4 @@
-# Seismosafe
+# SeismoSafe
 
 ## Introduction
 SeismoSafe is an innovative system designed to detect seismic waves in real time and provide immediate alerts to enhance safety during and after earthquake events. By leveraging affordable components and advanced communication methods, this project offers a scalable and cost-effective solution for communities in earthquake-prone regions.
