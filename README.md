@@ -19,8 +19,16 @@ Post-Earthquake Hazard Mitigation with MQ-2 gas sensors for gas leak detection.
 
 The system processes sensor data locally, transmits it to neighboring nodes or a central hub, and triggers alarms when thresholds are exceeded. By providing both localized and centralized responses, SeismoSafe ensures effective and timely interventions.
 ## Components required with Bill of Materials
-|-|-|-|-|-|-|-|-|
-|Sl.no|
+
+|Sl.no|Item|Quantity|Description|Links to Products|
+|-----|----|--------|-----------|-----------------|
+|1    |Vega Aries V3 RISC-V Board||||
+|2    |||||
+|3    |||||
+|4    |||||
+|5    |||||
+|6    |||||
+
 ## Table for Pin Connections
 
 ## Pinout Diagram
