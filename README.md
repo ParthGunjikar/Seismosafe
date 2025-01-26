@@ -19,7 +19,7 @@ The system processes sensor data locally, transmits it to neighboring nodes or a
 |-----|----|--------|-----------|-----------------|
 |1    |Vega Aries V3 RISC-V Board|1|RISC-V microcontroller development board||
 |2    |ADXL335 accelerometer module|1|3-axis analog accelerometer for motion sensing||
-|3    |Buzzer|1|Produces sound for alerts and notifications||
+|3    |Buzzer|1|Produces sound for alerts ||
 |4    |XBee Pro S2C Module|1|Enables Zigbee-based wireless communication||
 |5    |MQ-2 Gas Sensor|1|Detects flammable gases and smoke||
 |6    |Neo-6M GPS Module|1|Provides GPS location data||
