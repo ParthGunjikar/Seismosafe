@@ -29,7 +29,8 @@ The system processes sensor data locally, transmits it to neighboring nodes or a
 ## Table for Pin Connections
 
 ## Pinout Diagram
-final_pin_diagram.png
+![final_pin_diagram](final_pin_diagram.png)
+
 ## Working Code
 
 ## Demo Video
