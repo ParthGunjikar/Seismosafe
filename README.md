@@ -37,7 +37,7 @@ The system processes sensor data locally, transmits it to neighboring nodes or a
 |                   |TX1                      | UART Communication (SIM RX → MCU TX) |
 | **Gas Sensor**    | A0            | Analog signal output        |
 | **GPS Module**    | RX                  | UART Communication (GPS TX → MCU RX) |
-|                   | tx             | UART Communication (GPS RX → MCU TX) |
+|                   | TX            | UART Communication (GPS RX → MCU TX) |
 
 ## Pinout Diagram
 ![final_pin_diagram](final_pin_diagram.png)
