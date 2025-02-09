@@ -23,7 +23,7 @@ The system processes sensor data locally, transmits it to neighboring nodes or a
 |5    |MQ-2 Gas Sensor|1|Detects flammable gases and smoke|[MQ-2 Gas Sensor](https://robu.in/product/mq-2-mq2-smoke-gas-lpg-butane-hydrogen-gas-sensor-detector-module/)|
 |6    |Neo-6M GPS Module|1|Provides GPS location data|[Neo-6M GPS Module](https://robu.in/product/neo-6m-gps-module-with-eprom-normal-quality/) |
 |7    |SIM800L GSM Module|1|Enables GSM communication for SMS|[SIM800L GSM Module](https://robu.in/product/sim800l-v2-0-5v-wireless-gsm-gprs-module-quad-band/) |
-|8    |LCD Display|1|Displays data using an LCD screen|[LCD Display Module](]https://robu.in/product/jhd-16x2-character-lcd-display-with-blue-backlight/?gQT=1)|
+|8    |LCD Display|1|Displays data using an LCD screen|[LCD Display Module](https://robu.in/product/jhd-16x2-character-lcd-display-with-blue-backlight/?gQT=1)|
 |9    |Miscellaneous (LED's, Jumper Wire's, PCB)|-|||
 
 ## Table for Pin Connections
