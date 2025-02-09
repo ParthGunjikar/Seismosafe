@@ -25,7 +25,7 @@ The system processes sensor data locally, transmits it to neighboring nodes or a
 |6    |Neo-6M GPS Module|1|Provides GPS location data|[Neo-6M GPS Module](https://robu.in/product/neo-6m-gps-module-with-eprom-normal-quality/) |
 |7    |SIM800L GSM Module|1|Enables GSM communication for SMS|[SIM800L GSM Module](https://robu.in/product/sim800l-v2-0-5v-wireless-gsm-gprs-module-quad-band/) |
 |8    |OLED Display Module|1|Displays data using a compact OLED screen|[OLED Display Module](https://robu.in/product/0-96-inch-i2c-iic-oled-lcd-module-4pin-with-vcc-gnd-white/)|
-|9   |Miscellaneous (LED's, Jumper Wire's, PCB)|-|||
+|9    |Miscellaneous (LED's, Jumper Wire's, PCB)|-|||
 
 ## Table for Pin Connections
 
