@@ -264,7 +264,7 @@ void loop() {
 
 ### Video
 
-[Video](https://drive.google.com/file/d/1KlE3Pt2GWGZmlq9oOYIkdlxp79tvHJJj/view?usp=sharing)
+[Video link (Click here)](https://drive.google.com/file/d/1KlE3Pt2GWGZmlq9oOYIkdlxp79tvHJJj/view?usp=sharing)
 
 
 ### Soldered connections
