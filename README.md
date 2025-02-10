@@ -12,7 +12,7 @@ SeismoSafe integrates the following technologies to provide a comprehensive safe
 - Emergency Communication via GSM for sending SOS messages.
 - Post-Earthquake Hazard Mitigation with MQ-2 gas sensors for gas leak detection.
 
-The system processes sensor data locally, transmits it to neighboring nodes or a central hub, and triggers alarms when thresholds are exceeded. By providing both localized and centralized responses, SeismoSafe ensures effective and timely interventions.
+The system processes sensor data locally, enables early earthquake detection based on P phase arrival, and triggers alarms when thresholds are exceeded. By providing both localized and centralized responses, SeismoSafe ensures effective and timely interventions.
 
 ## Components required with Bill of Materials
 
