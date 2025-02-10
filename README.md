@@ -243,12 +243,19 @@ void loop() {
 
 ## Demo Video and Images
 
+### LCD output
+
 ![lcd](lcd.jpg)
 
+The above image shows the visual alert system indicating detection of P phase arrival based on the algorithm.
 
 ![waveform](waveform.png)
 
+The above image shows the waveform of the P phase of the seismic event captured by the ADXl335 sensor.
+
 ![sra](sra.png)
+
+The image shows the successful detection of P phase.
 
 
 ## Acknowledgements
