@@ -29,9 +29,10 @@ The system processes sensor data locally, transmits it to neighboring nodes or a
 
 ## Table for Pin Connections
 
-| Component**            | **VEGA Aries V3.0 Pin** | **Description**             |
+| **Component**            | **VEGA Aries V3.0 Pin** | **Description**             |
 |------------------------|------------------------|-----------------------------|
 | **LCD Display**        | SDA1                   | I2C Data Line               |
+| **ADXL335 Sensor**|A3 to A1|Three component sensor data|
 |                   | SCL1                    | I2C Clock Line              |
 | **Buzzer**        | GPIO9                  | Alarm indication       |
 | **SIM800L GSM Module**    | RX1             | UART Communication (SIM TX → MCU RX) |
