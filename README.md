@@ -7,12 +7,13 @@ SeismoSafe not only detects seismic activity but also addresses post-earthquake 
 ## Overview
 SeismoSafe integrates the following technologies to provide a comprehensive safety network:
 - Real-Time Seismic Detection using the ADXL335 accelerometer.
-- Local Alert Systems including audible buzzers and OLED displays.
+- Local Alert Systems including audible buzzer and LCD display.
 - Mesh Networking for robust communication.
 - Emergency Communication via GSM for sending SOS messages.
 - Post-Earthquake Hazard Mitigation with MQ-2 gas sensors for gas leak detection.
 
 The system processes sensor data locally, transmits it to neighboring nodes or a central hub, and triggers alarms when thresholds are exceeded. By providing both localized and centralized responses, SeismoSafe ensures effective and timely interventions.
+
 ## Components required with Bill of Materials
 
 |Sl.no|Item|Quantity|Description|Links to Products|
@@ -256,7 +257,19 @@ The image displays the waveform of the P-phase from the seismic event, captured 
 ### P phase detection with location
 ![sra](sra.png)
 
-The image confirms the successful detection of the P-phase along with its identified location.
+The image confirms the successful detection of the P-phase along with its identified location.\
+
+
+## Future Work
+
+Future improvements include use of improved algorithms based on advanced signal
+processing approaches such as Discrete Wavelet Transform (DWT) and related transforms for
+the purpose of noise suppression, and incorporation of machine learning based approaches
+to reduce false positives in detection of P-phase arrival and subsequent earthquake
+detection. Testing the device in earthquake prone areas, and conducting field tests to assess
+the reliability of the system, and making suitable adjustments based on user feedback.
+Collaborating with local governments for large-scale deployments and extending
+partnerships with disaster response organizations will enhance outreach.
 
 
 ## Acknowledgements
