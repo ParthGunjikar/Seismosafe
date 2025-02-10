@@ -266,7 +266,7 @@ The image displays the waveform of the P-phase from the seismic event, captured 
 ### P phase detection with location
 ![sra](sra.png)
 
-The image confirms the successful detection of the P-phase along with its identified location.\
+The image confirms the successful detection of the P-phase along with its identified location.
 
 
 ## Future Work
