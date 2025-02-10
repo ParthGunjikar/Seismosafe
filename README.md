@@ -8,7 +8,7 @@ SeismoSafe not only detects seismic activity but also addresses post-earthquake 
 SeismoSafe integrates the following technologies to provide a comprehensive safety network:
 - Real-Time Seismic Detection using the ADXL335 accelerometer.
 - Local Alert Systems including audible buzzers and OLED displays.
-- Mesh Networking with XBee modules for robust communication.
+- Mesh Networking for robust communication.
 - Emergency Communication via GSM for sending SOS messages.
 - Post-Earthquake Hazard Mitigation with MQ-2 gas sensors for gas leak detection.
 
