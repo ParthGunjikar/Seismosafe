@@ -261,6 +261,12 @@ void loop() {
 
 ## Demo Video and Images
 
+
+### Video
+
+[Video](https://drive.google.com/file/d/1KlE3Pt2GWGZmlq9oOYIkdlxp79tvHJJj/view?usp=sharing)
+
+
 ### Soldered connections
 
 ![soldered_connection](soldered_connection.png)
