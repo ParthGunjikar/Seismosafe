@@ -261,9 +261,9 @@ void loop() {
 
 ## Demo Video and Images
 
-### Final Product
+### Final Prototype
 
-
+![final prototype](final_prototype.png)
 
 ### Video
 
