@@ -43,7 +43,7 @@ The system processes sensor data locally, transmits it to neighboring nodes or a
 
 ## Block Diagram
 
-
+![block_diagram](block_diagram.png)
 
 ## Pinout Diagram
 ![pin_diagram](pin_diagram.png)
