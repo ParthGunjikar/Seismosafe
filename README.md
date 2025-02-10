@@ -268,7 +268,7 @@ Future improvements include use of improved algorithms based on advanced signal
 processing approaches such as Discrete Wavelet Transform (DWT) and related transforms for
 the purpose of noise suppression, and incorporation of machine learning based approaches
 to reduce false positives in detection of P-phase arrival and subsequent earthquake
-detection. Testing the device in earthquake prone areas, and conducting field tests to assess
+detection. Incorporation of advanced mesh networks can lead to timely response to earthquakes alerting nearby neighbourhoods. Testing the device in earthquake prone areas, and conducting field tests to assess
 the reliability of the system, and making suitable adjustments based on user feedback.
 Collaborating with local governments for large-scale deployments and extending
 partnerships with disaster response organizations will enhance outreach.
