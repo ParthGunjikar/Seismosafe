@@ -248,7 +248,7 @@ void loop() {
 
 ### Soldered connections
 
-![soldered](soldered.jpg)
+![soldered_connection](soldered_connection.jpg)
 
 ### Visual Alert
 
