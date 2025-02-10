@@ -41,6 +41,10 @@ The system processes sensor data locally, transmits it to neighboring nodes or a
 | **GPS Module**    | RX                  | UART Communication (GPS TX → MCU RX) |
 |                   | TX            | UART Communication (GPS RX → MCU TX) |
 
+## Block Diagram
+
+
+
 ## Pinout Diagram
 ![pin_diagram](pin_diagram.png)
 
