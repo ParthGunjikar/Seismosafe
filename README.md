@@ -246,6 +246,10 @@ void loop() {
 
 ## Demo Video and Images
 
+### Soldered connections
+
+
+
 ### Visual Alert
 
 ![lcd](lcd.jpg)
