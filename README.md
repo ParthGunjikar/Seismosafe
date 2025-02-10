@@ -243,6 +243,10 @@ void loop() {
 
 ## Demo Video and Images
 
+![lcd](lcd.jpg)
+
+
+![waveform](waveform.png)
 
 
 
