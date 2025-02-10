@@ -263,7 +263,7 @@ void loop() {
 
 ### Final Prototype
 
-![final prototype](final_prototype.png)
+![final prototype](final_prototype.jpg)
 
 ### Video
 
