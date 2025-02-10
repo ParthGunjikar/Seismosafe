@@ -7,9 +7,11 @@ SeismoSafe not only detects seismic activity but also addresses post-earthquake 
 ## Overview
 SeismoSafe integrates the following technologies to provide a comprehensive safety network:
 - Real-Time Seismic Detection using the ADXL335 accelerometer.
+- Use of specialised P phase detection algorithm i.e. STA/LTA algorithm.
 - Local Alert Systems including audible buzzer and LCD display.
 - Mesh Networking for robust communication.
 - Emergency Communication via GSM for sending SOS messages.
+- GPS module for location determination.
 - Post-Earthquake Hazard Mitigation with MQ-2 gas sensors for gas leak detection.
 
 The system processes sensor data locally, enables early earthquake detection based on STA/LTA P phase detection algorithm, and triggers alarms when thresholds are exceeded. By providing both localized and centralized responses, SeismoSafe ensures effective and timely interventions.
