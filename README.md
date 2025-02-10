@@ -43,6 +43,7 @@ The system processes sensor data locally, transmits it to neighboring nodes or a
 ![pin_diagram](pin_diagram.png)
 
 ## Working Code
+![code](code.ino)
 
 ## Demo Video
 
