@@ -273,6 +273,9 @@ the reliability of the system, and making suitable adjustments based on user fee
 Collaborating with local governments for large-scale deployments and extending
 partnerships with disaster response organizations will enhance outreach.
 
+## Conclusion
+
+SeismoSafe successfully demonstrates a cost-effective and scalable approach to real-time earthquake detection and hazard mitigation. By integrating the ADXL335 accelerometer for seismic activity monitoring, a buzzer and LCD display for immediate alerts, and GSM and GPS modules for emergency communication, the system ensures timely and localized responses to seismic events. The incorporation of gas sensor further enhances safety by detecting potential post-earthquake hazards, such as gas leaks.
 
 ## Acknowledgements
 
