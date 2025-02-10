@@ -254,6 +254,7 @@ The image illustrates the visual alert system detecting the arrival of the P-pha
 
 ### Waveform
 ![waveform](waveform.png)
+
 The image displays the waveform of the P-phase from the seismic event, captured by the ADXL335 sensor across all three components.
 
 ### P phase detection with location
