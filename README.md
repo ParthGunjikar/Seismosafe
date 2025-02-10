@@ -40,7 +40,7 @@ The system processes sensor data locally, transmits it to neighboring nodes or a
 |                   | TX            | UART Communication (GPS RX → MCU TX) |
 
 ## Pinout Diagram
-![final_pin_diagram](final_pin_diagram.png)
+![pin_diagram](pin_diagram.png)
 
 ## Working Code
 
