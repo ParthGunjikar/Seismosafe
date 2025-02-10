@@ -279,5 +279,8 @@ SeismoSafe successfully demonstrates a cost-effective and scalable approach to r
 
 ## Acknowledgements
 
+We would like to express our sincere gratitude to everyone who contributed to the development of SeismoSafe. Special thanks to the research community whose work in seismic detection and disaster mitigation inspired this project.
+
+We extend our appreciation to our mentors and colleagues for their valuable guidance, technical insights, and continuous support throughout the development process. Their constructive feedback played a crucial role in refining the system’s functionality and effectiveness.
 
 
